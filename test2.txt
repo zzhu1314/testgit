@@ -10,6 +10,3 @@ cmmit 2
 
 
 commit 6
-
-
-revert 3
